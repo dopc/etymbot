@@ -2,7 +2,8 @@
 an inline Telegram bot for etymonline.com [bot link](https://t.me/etymbot)
 
 ### usage:
-> @etymbot <a English word>
+> @etymbot -a English word-
+
 in any group or p2p Telegram conversation.
 
 ### credits: 
