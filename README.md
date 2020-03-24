@@ -6,6 +6,8 @@ This bot simply crawl first search result from the website, etymonline.
 ### usage:
 > @etymbot -an English word-
 
+![usage](https://github.com/dopc/etymbot/blob/master/usage.png)
+
 in any group or p2p Telegram chat.
 
 ### credits: 
