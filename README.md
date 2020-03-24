@@ -2,9 +2,9 @@
 a Telegram bot for etymonline.com
 t.me/etymbot
 
-#usage:
+##usage:
 > "@etymbot -a English word-"
 in any group or p2p Telegram conversation.
 
-#credits: 
+###credits: 
 [etym](https://github.com/tetrismegistus/etym) and [etymonline web site](etymonline.com)
