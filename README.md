@@ -1,6 +1,8 @@
 # etymbot
 an inline python Telegram bot for etymonline.com [bot link](https://t.me/etymbot)
 
+This bot simply crawl first search result from the website, etymonline.
+
 ### usage:
 > @etymbot -a English word-
 
