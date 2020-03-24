@@ -1,5 +1,5 @@
 # etymbot
-an inline Telegram bot for etymonline.com [bot link](https://t.me/etymbot)
+an inline python Telegram bot for etymonline.com [bot link](https://t.me/etymbot)
 
 ### usage:
 > @etymbot -a English word-
