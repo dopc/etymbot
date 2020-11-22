@@ -4,7 +4,7 @@
 	- Note:
 	  etymbot does not work since August 2020, because of lack of server.
 
-an inline python Telegram bot for etymonline.com.
+an inline python Telegram bot for [etymonline.com](etymonline.com).
 To access the bot get the [bot link](https://t.me/etymbot).
 
 This bot simply crawls first search result from the website, Etymonline.
