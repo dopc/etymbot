@@ -2,7 +2,7 @@
 # etymbot
 
 	- Note:
-	  etymbot does not work since August 2020, because of lack of server.
+	  etymbot now works on a Heroku App and generally needs some time to wake up.
 
 an inline python Telegram bot for [etymonline.com](etymonline.com).
 To access the bot get the [bot link](https://t.me/etymbot).
