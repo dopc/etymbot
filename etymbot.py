@@ -8,7 +8,7 @@ import os
 
 logger = logging.getLogger(__name__)
 
-updater = Updater(token=os.getenv("BOT_TOKEN"))
+updater = Updater(token=os.environ.get("BOT_TOKEN"))
 dispatcher = updater.dispatcher
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
                     level=logging.INFO)
